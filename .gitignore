@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# SQLite
+*.db
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
